@@ -11,7 +11,7 @@ Ingyenes, magyar nyelvű Minecraft: Java Edition launcher Windowsra, Linuxra és
 | Windows 64 bites | `Odyssey-…-win-x64.exe` |
 | macOS, Apple Silicon (M1 és újabb) | `Odyssey-…-mac-arm64.dmg` |
 | macOS, Intel | `Odyssey-…-mac-x64.dmg` |
-| Linux, x64 | `Odyssey-…-linux-x64.AppImage` vagy `.deb` |
+| Linux, x64 | `Odyssey-…-linux-x86_64.AppImage` vagy `Odyssey-…-linux-amd64.deb` |
 | Linux, ARM64 | `Odyssey-…-linux-arm64.AppImage` vagy `.deb` |
 
 A kiadás `SHA256SUMS.txt` fájlja tartalmazza a letöltések ellenőrzőösszegeit.
